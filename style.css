@@ -1,1 +1,22 @@
-
+.begin {
+  display: flex;
+  justify-content: space-between;
+}
+.border {
+    border: 2px solid #000000;
+    background-color: #D3D3D3;
+    width: 18%;
+    padding: 10px;
+}
+.ghf {
+    text-align: center;
+}
+.a {
+color: #ff0000;
+}
+.b {
+color: green;
+}
+.c {
+color: blue;
+}
